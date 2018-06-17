@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarbageCollector.Part1", "GarbageCollector.Part1\GarbageCollector.Part1.csproj", "{1D0DDC90-66D9-41DD-BA40-4D42F224DE34}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarbageCollector.Part2", "GarbageCollector.Part2\GarbageCollector.Part2.csproj", "{FD0AEED7-D929-4658-B66D-4FC1F0A685DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarbageCollector.Part3", "GarbageCollector.Part3\GarbageCollector.Part3.csproj", "{74733707-16D6-4283-B473-ACF3066A1910}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{1D0DDC90-66D9-41DD-BA40-4D42F224DE34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D0DDC90-66D9-41DD-BA40-4D42F224DE34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D0DDC90-66D9-41DD-BA40-4D42F224DE34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD0AEED7-D929-4658-B66D-4FC1F0A685DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD0AEED7-D929-4658-B66D-4FC1F0A685DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD0AEED7-D929-4658-B66D-4FC1F0A685DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD0AEED7-D929-4658-B66D-4FC1F0A685DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74733707-16D6-4283-B473-ACF3066A1910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74733707-16D6-4283-B473-ACF3066A1910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74733707-16D6-4283-B473-ACF3066A1910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74733707-16D6-4283-B473-ACF3066A1910}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
